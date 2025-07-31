@@ -41,4 +41,4 @@ I'll create a visual representation of the Chrome extension interface to show yo
 
 4. **Comprehensive Reporting**: Weekly summaries with detailed breakdowns
 
-##output:
+##output:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/be662820-c54a-46a2-b803-8cc3874bfdad" />
